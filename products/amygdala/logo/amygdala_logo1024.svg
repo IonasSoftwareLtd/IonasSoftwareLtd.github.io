@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="393.79529mm"
+   height="282.33582mm"
+   viewBox="0 0 393.79528 282.33582"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92pre3 15195"
+   sodipodi:docname="amygdala_logo1024.svg"
+   inkscape:export-filename="C:\Users\Szymon\Desktop\bitmap.png"
+   inkscape:export-xdpi="92.122925"
+   inkscape:export-ydpi="92.122925">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="775.3219"
+     inkscape:cy="382.51449"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1440"
+     inkscape:window-height="837"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(120.07292,63.862202)">
+    <path
+       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:11.42781639;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -92.562412,29.324323 0.007,-0.0024 c -36.076358,65.337798 -28.238098,140.506417 29.964105,176.813437 0,0 0.0043,-0.005 0.0067,-0.01 15.524451,10.86236 36.422899,8.20335 47.155079,-6.2005 9.0893532,-12.19898 8.0177763,-28.97512 -1.539044,-40.97572 0.01201,-0.012 0.02162,-0.0216 0.03411,-0.0334 C 10.885963,122.05336 89.589587,43.286754 80.136563,29.497473 -69.653221,5.7854895 110.47656,-69.615054 62.344053,-55.173518 c -15.943328,7.429736 -28.173614,19.409202 -40.412187,31.494378 -4.108512,3.556672 -5.308781,4.676857 -7.398172,4.977872 -40.01615,-11.887049 -81.083384,12.2919987 -107.09606,48.024259 z"
+       id="path3001"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccscccccccc" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:43.19174576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 768.4375,21.626953 C 744.25903,21.30557 720.30305,27.158847 699.47656,40.765625 619.11885,94.327684 518.504,196.19554 599.78711,310.55078 c 71.57899,69.18433 155.62194,38.41925 156.91016,42.30469 0.83416,1.20606 0.40754,0.59888 0.62109,0.91211 183.73607,245.68565 261.20074,349.09397 366.20704,488.22851 0.047,0.0446 0.083,0.0797 0.1289,0.125 -36.1202,45.3566 -40.1719,108.76276 -5.8184,154.86914 40.5626,54.43977 119.5495,64.49007 178.2246,23.43557 0.01,0.019 0.02,0.029 0.027,0.037 201.8589,-132.31764 203.2767,-541.33943 113.25,-668.27149 l 0.025,0.01 v -0.004 C 1311.0476,217.1462 1155.832,125.7601 1004.5898,170.6875 996.69286,169.54982 992.15713,165.31551 976.62891,151.87305 930.37278,106.19675 884.14693,60.920743 823.88867,32.839844 806.18243,25.862837 787.24298,21.876918 768.4375,21.626953 Z M 757.31836,353.76758 c -0.24805,-0.33168 -0.4,-0.53499 -0.64844,-0.86719 0.007,-0.0141 1.39351,1.96004 0.64844,0.86719 z"
+       transform="matrix(0.26458333,0,0,0.26458333,-120.07292,-63.862202)"
+       id="path3001-9"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

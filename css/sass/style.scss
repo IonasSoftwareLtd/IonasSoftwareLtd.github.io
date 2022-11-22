@@ -1,0 +1,85 @@
+---
+# comment
+---
+
+@import "variables";
+
+.ionas-header-title {
+	font-family: $righteous;
+	padding: .5em .5em;
+	font-size: 2em;
+	color: green;
+}
+
+
+.lang-img {
+	width: 77px;
+	padding: .5em;
+	float: left;
+}
+
+.lang-training {
+	border-radius: .7em;
+	text-align: justify;
+	padding: 1em;
+}
+
+.lang-training {
+	border: 1px solid white;
+}
+
+.lang-training:hover {
+	cursor: pointer;
+	border: 1px solid green;
+}
+
+.cert-provider-img {
+	width: 6em;
+	padding: .5em;
+	float: left;
+}
+
+.inline-img-8 {
+	width: 8em;
+	padding: .5em;
+	float: left;
+}
+
+a {
+	color: green;
+}
+
+
+.lang-training a {
+	color: black;
+	text-decoration: none;
+}
+
+.nav-pills .nav-item.show .nav-link, .nav-pills .nav-link.active {
+	cursor: default;
+	color: white;
+	background-color: black;
+}
+
+.nav > li {
+	margin-left: 1em;
+}
+
+.nav > li > a:hover{
+	color: white;
+    background-color: green;
+}
+
+
+@font-face {
+  font-family: 'Righteous';
+  src: url('../fonts/righteous/Righteous-latin.woff2') format('woff2'), 
+       url('../fonts/righteous/Righteous-latin.woff') format('woff'),
+       url('../fonts/righteous/Righteous-Regular.ttf')  format('truetype'),
+       url('webfont.svg#svgFontName') format('svg');
+}
+
+
+
+@import "highlights";
+@import "svg-icons";

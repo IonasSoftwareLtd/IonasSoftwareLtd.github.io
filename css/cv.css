@@ -1,0 +1,48 @@
+body {
+	background: rgb(204,204,204); 
+}
+cv {
+	font-family: Righteous;
+	background: white;
+	display: block;
+	margin: 0 auto;
+	margin-bottom: 0.5cm;
+	box-shadow: 0 0 0.5cm rgba(0,0,0,0.5);
+}
+cv[size="A4"] {  
+	size: A4;
+	width: 21cm;
+	height: 29.7cm; 
+}
+
+
+.cv-menu {
+	top: 0px;
+	left: 3em;
+	position: absolute;
+	background-color: green;
+}
+
+.cv-menu > ul > li {
+	color: white;
+	background-color: green;
+}
+
+.cv-menu > ul > li > a {
+	color: white;
+}
+
+.cv-menu > ul > li > a.active {
+	color: grey;
+}
+
+@media print {
+	body, cv {
+		margin: 0 !important;
+		box-shadow: 0 !important;
+		page-break-after: always !important;
+	}
+	.cv-menu {
+		display: none;
+	}
+}
